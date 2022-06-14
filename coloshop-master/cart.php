@@ -187,11 +187,8 @@
                                 ?>
                                 <tr>
                                   <td><?=$count?></td>
-<<<<<<< Updated upstream
                                   <td><img src="<?=$row['thumbnail']?>"></td>
-=======
                                   <td><?=$row['thumbnail']?></td>
->>>>>>> Stashed changes
                                   <td><?=$row['title']?></td>
                                   <td><?=$row['price']?></td>
                                   <td><?=$row['num']?></td>
